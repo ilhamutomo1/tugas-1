@@ -1,0 +1,24 @@
+CRITICAL - 2021-12-12 06:28:57 --> Class "CI_Controller" not found
+#0 C:\xampp\htdocs\code4\system\Router\Router.php(519): include_once()
+#1 C:\xampp\htdocs\code4\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('Contoh1')
+#2 C:\xampp\htdocs\code4\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Contoh1')
+#3 C:\xampp\htdocs\code4\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\code4\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\code4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-12 06:30:24 --> Class "CI_Controller" not found
+#0 C:\xampp\htdocs\code4\system\Router\Router.php(519): include_once()
+#1 C:\xampp\htdocs\code4\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('Contoh1')
+#2 C:\xampp\htdocs\code4\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Contoh1')
+#3 C:\xampp\htdocs\code4\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\code4\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\code4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-12 06:32:56 --> Class "CI_Controller" not found
+#0 C:\xampp\htdocs\code4\system\Router\Router.php(519): include_once()
+#1 C:\xampp\htdocs\code4\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('Contoh1')
+#2 C:\xampp\htdocs\code4\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Contoh1')
+#3 C:\xampp\htdocs\code4\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\code4\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\code4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
